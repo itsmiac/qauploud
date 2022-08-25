@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-08-23T16:04:30 EDT" name="Default suite" finished-at="2022-08-23T16:04:53 EDT" duration-ms="23503">
+    <groups>
+    </groups>
+    <test started-at="2022-08-23T16:04:30 EDT" name="Default test" finished-at="2022-08-23T16:04:53 EDT" duration-ms="23503">
+      <class name="testNgpackage.OpenWebsite">
+        <test-method signature="openingAmazonSite()[pri:0, instance:testNgpackage.OpenWebsite@2177849e]" started-at="2022-08-23T16:04:30 EDT" name="openingAmazonSite" finished-at="2022-08-23T16:04:40 EDT" duration-ms="9952" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openingAmazonSite -->
+        <test-method signature="openingCnbcSite()[pri:0, instance:testNgpackage.OpenWebsite@2177849e]" started-at="2022-08-23T16:04:40 EDT" name="openingCnbcSite" finished-at="2022-08-23T16:04:43 EDT" duration-ms="3720" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openingCnbcSite -->
+        <test-method signature="openingYahooSite()[pri:0, instance:testNgpackage.OpenWebsite@2177849e]" started-at="2022-08-23T16:04:43 EDT" name="openingYahooSite" finished-at="2022-08-23T16:04:53 EDT" duration-ms="9804" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openingYahooSite -->
+      </class> <!-- testNgpackage.OpenWebsite -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
